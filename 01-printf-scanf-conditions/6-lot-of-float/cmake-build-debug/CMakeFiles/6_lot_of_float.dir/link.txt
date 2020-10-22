@@ -1,0 +1,3 @@
+"D:\Program Files\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\6_lot_of_float.dir/objects.a
+"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe" cr CMakeFiles\6_lot_of_float.dir/objects.a @CMakeFiles\6_lot_of_float.dir\objects1.rsp
+"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe" -g   -Wl,--whole-archive CMakeFiles\6_lot_of_float.dir/objects.a -Wl,--no-whole-archive  -o 6_lot_of_float.exe -Wl,--out-implib,lib6_lot_of_float.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\6_lot_of_float.dir\linklibs.rsp

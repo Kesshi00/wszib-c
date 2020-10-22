@@ -1,0 +1,3 @@
+D:/Filip/Code/company/wszib/c/2-loops/4-sum-odds/cmake-build-debug/CMakeFiles/4_sum_odds.dir
+D:/Filip/Code/company/wszib/c/2-loops/4-sum-odds/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Filip/Code/company/wszib/c/2-loops/4-sum-odds/cmake-build-debug/CMakeFiles/rebuild_cache.dir

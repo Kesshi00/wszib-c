@@ -1,0 +1,3 @@
+D:/Filip/Code/company/wszib/c/1-printf-scanf-conditions/1-big-chars/cmake-build-debug/CMakeFiles/1_big_chars.dir
+D:/Filip/Code/company/wszib/c/1-printf-scanf-conditions/1-big-chars/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Filip/Code/company/wszib/c/1-printf-scanf-conditions/1-big-chars/cmake-build-debug/CMakeFiles/rebuild_cache.dir

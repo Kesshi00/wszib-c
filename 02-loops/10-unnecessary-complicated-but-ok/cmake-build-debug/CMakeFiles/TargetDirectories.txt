@@ -1,0 +1,3 @@
+D:/Filip/Code/company/wszib/c/2-loops/10-unnecessary-complicated-but-ok/cmake-build-debug/CMakeFiles/10_unnecessary_complicated_but_ok.dir
+D:/Filip/Code/company/wszib/c/2-loops/10-unnecessary-complicated-but-ok/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Filip/Code/company/wszib/c/2-loops/10-unnecessary-complicated-but-ok/cmake-build-debug/CMakeFiles/rebuild_cache.dir

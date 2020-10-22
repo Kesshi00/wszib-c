@@ -1,0 +1,3 @@
+D:/Filip/Code/company/wszib/c/1-printf-scanf-conditions/4-is-number/cmake-build-debug/CMakeFiles/4_is_number.dir
+D:/Filip/Code/company/wszib/c/1-printf-scanf-conditions/4-is-number/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Filip/Code/company/wszib/c/1-printf-scanf-conditions/4-is-number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

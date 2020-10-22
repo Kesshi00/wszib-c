@@ -1,0 +1,3 @@
+D:/Filip/Code/company/wszib/c/2-loops/3-read-and-sum/cmake-build-debug/CMakeFiles/3_read_and_sum.dir
+D:/Filip/Code/company/wszib/c/2-loops/3-read-and-sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Filip/Code/company/wszib/c/2-loops/3-read-and-sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
